@@ -1,0 +1,24 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idkatthun/bot.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/idkatthun/bot/issues"
+  },
+  "homepage": "https://github.com/idkatthun/bot#readme",
+  "dependencies": {
+    "mineflayer": "^4.39.0",
+    "prismarine-chat": "^1.13.0"
+  }
+}
